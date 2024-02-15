@@ -6,7 +6,7 @@ Bachelor’s Degree in **Internet of Things, Big Data & Machine Learning** from 
 [Check out more here](https://bento.me/mattiamonti) or at my [LinkedIn](https://www.linkedin.com/in/montimattia/)
 
 ## 👨🏻‍💻 Major projects
-### <a href="https://github.com/mattiamonti/pytest-bdd-report" target="_blank">Pytest-BDD-Report</a>
+### [Pytest-BDD-Report](https://github.com/mattiamonti/pytest-bdd-report)
 A pytest-bdd plugin for generating useful and informative automated BDD test reports.
 
 
