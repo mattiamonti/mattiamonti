@@ -3,7 +3,7 @@
 # Hi there, I'm Mattia 👋
 
 ### QA Automation Engineer @ **[OverIT](https://www.overit.it/)**
-Focusing on creating maintainable and scalable test automation suites and frameworks.
+Focusing on creating maintainable and scalable test automation suites and frameworks, for both mobile and web.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mattiamonti-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattia-monti-cavaler/)
 
@@ -23,7 +23,7 @@ A pytest-bdd plugin for generating clean, useful, and informative automated BDD 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | `Python`, `Java`, `C`, `JavaScript` |
-| **Testing & Automation** | `Pytest`, `Selenium`, `Cypress`, `Robot Framework`, `Squash TM` |
+| **Testing & Automation** | `Pytest`, `Selenium`, `Cypress`, `Robot Framework`, `Appium` |
 | **Web & Frontend** | `HTML5`, `CSS3`, `Tailwind CSS`, `Vue.js` |
 | **Databases** | `SQL`, `PostgreSQL`, `MongoDB` |
 | **Data & ML** | `Scikit-learn`, `R`, `Pandas` |
