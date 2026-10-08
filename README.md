@@ -1,38 +1,36 @@
-# Mattia Monti
-Currently employed as a **Software Tester** Consultant at Westhouse Group, now working on an IoT project for **Autostrade per l’Italia**.
+<h-align align="center">
 
-Bachelor’s Degree in **Internet of Things, Big Data & Machine Learning** from the University of Udine.
+# Hi there, I'm Mattia 👋
 
-[Check out more here](https://bento.me/mattiamonti) or at my [LinkedIn](https://www.linkedin.com/in/montimattia/)
+### QA Automation Engineer @ **[OverIT](https://www.overit.it/)**
+Focusing on creating maintainable and scalable test automation suites and frameworks.
 
-## 👨🏻‍💻 Major projects
-### [Pytest-BDD-Report](https://github.com/mattiamonti/pytest-bdd-report)
-A pytest-bdd plugin for generating useful and informative automated BDD test reports.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mattimattia-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/montimattia/)
 
+</h-align>
 
-## 🛠 Skills
-### Software development
-- Python
-- Java
-- C
+---
 
-### Databases
-- SQL
-- PostreSQL
-- MongoDB
+## 🚀 Featured Project
 
-### Data science and Machine Learning
-- R, dplyr, ggplot2
-- Python, Scikit-learn
+### **[Pytest-BDD-Report](https://github.com/mattiamonti/pytest-bdd-report)**
+A pytest-bdd plugin for generating clean, useful, and informative automated BDD test reports.
 
-### Web
-- HTML, CSS, JS
-- Tailwind CSS
-- Vue.js
+---
 
-### Tools
-- Git, GitHub
-- Figma
-- Jira
-- Squash Test Manager
+## 🛠️ Tech Stack & Skills
 
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python`, `Java`, `C`, `JavaScript` |
+| **Testing & Automation** | `Pytest`, `Selenium`, `Cypress`, `Robot Framework`, `Squash TM` |
+| **Web & Frontend** | `HTML5`, `CSS3`, `Tailwind CSS`, `Vue.js` |
+| **Databases** | `SQL`, `PostgreSQL`, `MongoDB` |
+| **Data & ML** | `Scikit-learn`, `R`, `Pandas` |
+| **Tools & DevOps** | `Git`, `GitHub`, `Jira`, `Figma` |
+
+---
+
+<div align="center">
+  <i>🎓 B.S. in Internet of Things, Big Data & Machine Learning — University of Udine</i>
+</div>
