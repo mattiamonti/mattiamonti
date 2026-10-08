@@ -5,7 +5,7 @@
 ### QA Automation Engineer @ **[OverIT](https://www.overit.it/)**
 Focusing on creating maintainable and scalable test automation suites and frameworks.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattia Monti-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattia-monti-cavaler/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattia-Monti-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattia-monti-cavaler/)
 
 </h-align>
 
